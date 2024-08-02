@@ -1,16 +1,16 @@
 `Hotel Management System`
 
-# Overview
+#Overview
 The Hotel Management System is a comprehensive solution designed to efficiently manage hotel operations. It handles critical aspects of hotel management, such as room inventory, customer details, reservations, and payments. By integrating these components, the system enables seamless booking experiences and provides insights into hotel performance through complex queries and data analysis.
 
-# Key Features
+#Key Features
 `Room Management`: Track room availability, types, and pricing.
 `Customer Management`: Maintain customer profiles and preferences.
 `Reservation Handling`: Automate booking processes and manage check-ins/outs.
 `Payment Processing`: Securely process payments and generate invoices.
 `Complex Queries`: Generate reports on occupancy, revenue, customer history, and more.
 
-# Project Scope
+#Project Scope
 `Design Tables`: Create tables for rooms, customers, reservations, and payments.
 `Establish Relationships`: Define relationships to reflect business logic.
 `Write Queries`: Implement SQL queries to manage bookings and generate insights.
